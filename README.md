@@ -4,7 +4,7 @@ Simulates an intelligent memory management algorithm which dynamically assign an
 
 ## Developed with and dependencies:
 Python - https://www.python.org/
-PSUtil(psutil (process and system utilities) is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network, sensors) in Python) - https://pypi.org/project/psutil/
+<br>psutil(psutil (process and system utilities) is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network, sensors) in Python) - https://pypi.org/project/psutil/
 
 ## Local Execution
 Python -m program.py
