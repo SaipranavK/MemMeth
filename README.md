@@ -7,4 +7,5 @@ Python - https://www.python.org/
 <br>psutil(psutil (process and system utilities) is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network, sensors) in Python) - https://pypi.org/project/psutil/
 
 ## Local Execution
-Python -m program.py
+pip install psutil
+python -m program.py
